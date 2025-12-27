@@ -1,2 +1,2 @@
-# a-database
+# journey-python
 A beginner friendly database.
