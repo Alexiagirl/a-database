@@ -1,2 +1,2 @@
 # journey-python
-A beginner friendly database.
+My python Journey
